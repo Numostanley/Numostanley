@@ -1,4 +1,5 @@
-Numo Stanley.png
+![Numo Stanley](https://user-images.githubusercontent.com/90499278/219865021-a8b4b51e-a00d-4582-83bc-645897d76839.png)
+
 ### Hi there 👋
 
 My name is Numo-Stanley Nanatei, and I am a Python developer and backend engineer with a passion for creating quality software solutions. With 3 years of experience, I have developed an excellent understanding of object-oriented programming, data wrangling, and the fundamental underpinnings of a product or software development lifecycle. 
