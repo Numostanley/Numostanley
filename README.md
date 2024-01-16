@@ -1,4 +1,5 @@
-![Numo Stanley Cover photo](https://github.com/Numostanley/Numostanley/assets/90499278/e0b01d57-7524-471e-8ae8-02ea0c729603)
+![Numo Stanley Cover photo](https://github.com/Numostanley/Numostanley/assets/90499278/4ebb4068-be02-415a-8c32-c7aa97c794e8)
+
 
 ### Hi there 👋
 
