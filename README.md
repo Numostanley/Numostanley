@@ -1,8 +1,8 @@
-![Numo Stanley](https://user-images.githubusercontent.com/90499278/219865021-a8b4b51e-a00d-4582-83bc-645897d76839.png)
+![Numo Stanley Cover photo](https://github.com/Numostanley/Numostanley/assets/90499278/e0b01d57-7524-471e-8ae8-02ea0c729603)
 
 ### Hi there 👋
 
-My name is Numo-Stanley Nanatei, and I am a proficient Python developer and back-end engineer who has a passion for creating quality software solutions. With several years of experience, I have developed an excellent understanding of object-oriented programming, data wrangling, and the fundamental underpinnings of a product or software development lifecycle.
+My name is Numo-Stanley Nanatei, and I am a proficient back-end engineer who has a passion for creating quality software solutions. With several years of experience, I have developed an excellent understanding of object-oriented programming, data wrangling, and the fundamental underpinnings of a product or software development lifecycle.
 
 I possess an analytical and problem-solving mindset, the ability to learn quickly, a solid understanding of fundamental design principles, and exceptional communication skills. Throughout my career, I have designed and implemented scalable and maintainable code using common design patterns in software engineering.
 
